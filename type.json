@@ -1,5 +1,6 @@
-{
-  "AR": {
+[
+  {
+    "kode": "AR",
     "tittel": { "nb": "Art", "la": "Biota" }
   }
-}
+]
