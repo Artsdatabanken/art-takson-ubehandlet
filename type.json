@@ -2,6 +2,7 @@
   {
     "kode": "AR",
     "nivå": "Biologisk klassifikasjon",
-    "tittel": { "nb": "Art", "sn": "Biota" }
+    "foreldre": [],
+    "tittel": { "nb": "Art", "sn": "Biota", "url": "Biota" }
   }
 ]
