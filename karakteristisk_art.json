@@ -1,4 +1,4 @@
 {
-  "_beskrivelse": "Oversikt over hvilke arter som anses å være karakteristiske TODO: Skriv mer fornuftig tekst her.  Først i lista prioriteres",
+  "_beskrivelse": "Oversikt over hvilke arter som anses å være karakteristiske.  Først i lista prioriteres.  Brukes blant annet for å velge bilder som representer på et høyere taksonomisk nivå.",
   "arter": ["Canis lupus lupus", "Alces alces"]
 }
