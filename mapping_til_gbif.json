@@ -1,0 +1,14 @@
+{
+  "magnoliophyta": "tracheophyta",
+  "pteridophyta": "tracheophyta",
+  "lycopodiophyta": "tracheophyta",
+  "monilophyta": "tracheophyta",
+  "cycadophyta": "tracheophyta",
+  "ginkgophyta": "tracheophyta",
+  "pinophyta": "tracheophyta",
+  "gnetophyta": "tracheophyta",
+  "ectoprocta": "bryozoa",
+  "eudicots": "magnoliopsida",
+  "monocots": "liliopsida",
+  "flavobacteria": "flavobacteriia"
+}
