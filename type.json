@@ -3,6 +3,7 @@
     "kode": "AR",
     "nivå": "Biologisk klassifikasjon",
     "foreldre": [],
+    "finnesINorge": true,
     "tittel": { "nb": "Art", "sn": "Biota", "url": "Biota" }
   }
 ]
